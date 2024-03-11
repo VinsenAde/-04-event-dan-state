@@ -24,10 +24,13 @@ Explain why it is like that?
 Silahkan di-commit untuk Praktikum 3
 ------------------------------------------------------
 ![image](https://drive.google.com/uc?export=view&id=1kNVaRcb7xYzhuzgfGrqFe0IMQPs_ZwyS)
+error after more than 5th index
 ![image](https://drive.google.com/uc?export=view&id=1Gssyo_pKqGv_See_AZiw2EBmiL8lf3iX)
+More than 5 solution
 ![image](https://drive.google.com/uc?export=view&id=1aheV-vivoUETjVWI8NKqyZDnIkYfkizD)
+Backwards Article
 ![image](https://drive.google.com/uc?export=view&id=1bmIIXY8_fQUjdCExYJ2tAbGwespRp0Vc)
-https://drive.google.com/file/d/1kNVaRcb7xYzhuzgfGrqFe0IMQPs_ZwyS/view?usp=drive_link, https://drive.google.com/file/d/1Gssyo_pKqGv_See_AZiw2EBmiL8lf3iX/view?usp=drive_link, https://drive.google.com/file/d/1aheV-vivoUETjVWI8NKqyZDnIkYfkizD/view?usp=drive_link, https://drive.google.com/file/d/1bmIIXY8_fQUjdCExYJ2tAbGwespRp0Vc/view?usp=drive_link
+
 Soal
 Jika kita menekan tombol "Artikel Selanjutnya" sebanyak 5x (atau melebihi halaman total artikel), apa yang akan terjadi?
 Modifikasilah gallery.tsx agar bisa meng-handle permasalahan tersebut.
