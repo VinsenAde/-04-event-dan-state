@@ -1,5 +1,6 @@
 "use client";
 import Tombol_1, { Tombol_2, Tombol_3 } from "@/components/button";
+import Gallery from "@/components/gallery";
 import Image from "next/image";
 
 export default function Home() {
@@ -18,6 +19,8 @@ export default function Home() {
     <Tombol_3 isiPesan="Child Elements : Tombol-1" namaTombol= "Tombol-1"/>
     <Tombol_3 isiPesan="Child Elements : Tombol-2" namaTombol= "Tombol-2"/>
    </div>
+   <br/><br/>
+    <Gallery/>
    </>
   );
 }
